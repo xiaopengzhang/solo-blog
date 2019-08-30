@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [golang操作execl](http://blog.yixuanfamily.top/articles/2019/08/29/1567069680261.html)
 * [世界，你好！](http://blog.yixuanfamily.top/hello-solo)
 
 
